@@ -63,3 +63,6 @@ Always exactly 7 backups on disk — no more, no less.
 - Log management with timestamps
 - Conditional logic and counting files
 - Git version control and GitHub
+
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d066206-7d6d-462e-bc4a-10d566e3475d" />
+
